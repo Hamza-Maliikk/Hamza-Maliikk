@@ -27,7 +27,7 @@
 
 - 📫 Feel free to reach me out **[hamzamalik123450@gmail.com](mailto:hamzamalik123450@gmail.com)**
 
-- 🏠 Join me on **[Hamza Malik](https://discord.gg/your-invite-link)**
+- 🏠 Join me on **[Hamza Malik](https://discord.com/users/1457071137061343366)**
 
 
 
