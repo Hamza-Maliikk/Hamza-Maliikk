@@ -25,9 +25,9 @@
 
 - 💬 Ask me about **react, nodejs, mongoDB**
 
-- 📫 Feel free to reach me out **hamzamalik123450@gmail.com**
+- 📫 Feel free to reach me out **[hamzamalik123450@gmail.com](mailto:hamzamalik123450@gmail.com)**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  **m.hamzamalik** my username!
+🏠 Join me on **[Discord](https://discord.gg/your-invite-link)**
 
 
 
