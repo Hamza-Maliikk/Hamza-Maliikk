@@ -27,7 +27,7 @@
 
 - 📫 Feel free to reach me out **hamzamalik123450@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  m.hamzamalik my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  **m.hamzamalik** my username!
 
 
 
