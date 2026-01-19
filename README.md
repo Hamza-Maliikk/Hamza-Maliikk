@@ -4,7 +4,7 @@
 
 <!--h1 without bottom border-->
   <ul align="center">
-    <h1 style="display: inline-block">Hi 👋, I'm M.Hamza Malik</h1>
+    <h1 style="display: inline-block"> I'm M.Hamza Malik</h1>
   </ul>
 
 
